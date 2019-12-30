@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE, DELETE ON phpmyadmin.* TO 'pma_user'@'localhost' IDENTIFIED BY 'pma_password';
