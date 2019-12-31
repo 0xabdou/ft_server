@@ -14,7 +14,7 @@ RUN	wget https://wordpress.org/latest.tar.gz;
 
 ADD srcs srcs
 
-RUN	bash ./srcs/scripts/setup_ssl.sh;
+RUN	./srcs/scripts/setup_ssl.sh;
 RUN	./srcs/scripts/setup_phpmyadmin.sh;
 RUN	./srcs/scripts/setup_wordpress.sh;
 RUN	./srcs/scripts/setup_databases.sh
