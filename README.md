@@ -6,7 +6,7 @@ The web server uses the SSL protocole, and is able to run several services at th
   - phpMyAdmin
   - MySQL database
 
-You can check the project's subject [here](https://github.com/zettai-dev/ft_server/blob/master/readme_srcs/en.subject.pdf)
+You can check the project's subject [here](https://github.com/zettai-dev/cub3D/blob/master/readme_srcs/en.subject.pdf)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zettai-dev/ft_server/master/readme_srcs/git_logo.jpg" alt="42_1337" height="200">
+  <img src="https://github.com/zettai-dev/cub3D/blob/master/readme_srcs/git_logo.jpg" alt="42_1337" height="200">
 </p>
