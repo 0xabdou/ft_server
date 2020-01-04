@@ -1,7 +1,7 @@
 # ft_server
-![alt text](https://pbs.twimg.com/profile_images/989065701234225155/gv4BbneW_400x400.jpg)
-![alt text](https://pbs.twimg.com/profile_images/1140904829675560960/2sG9MiUM_400x400.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zettai-dev/ft_server/master/repo_images/git_logo.jpg" alt="42_1337" height="250">
+</p>
 
 One of 1337 new cursus projects, it is an introduction to the basics of system and network administration, that allows to install a complete web server, using a deployment technology named Docker.
 
